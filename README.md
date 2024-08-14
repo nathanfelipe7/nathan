@@ -1,2 +1,7 @@
 # nathan
-https://github.com/nathanfelipe7/nathan.git
+
+### Boas vindas ao meu perfil 
+# meu nome é nathan felipe
+ # estou estudando no alura
+ # estou desenvolvendo a linguagem java script
+ # uso esse espaço para minha organização 
